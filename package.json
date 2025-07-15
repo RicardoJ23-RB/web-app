@@ -52,7 +52,7 @@
     "@fortawesome/free-solid-svg-icons": "6.2.1",
     "@ngx-translate/core": "13.0.0",
     "@ngx-translate/http-loader": "^6.0.0",
-    "@swimlane/ngx-graph": "^8.0.2",
+    "@swimlane/ngx-graph": "^9.0.0",
     "@tailwindcss/forms": "^0.5.4",
     "chart.js": "3.0.0-alpha",
     "d3": "^7.9.0",
